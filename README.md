@@ -1,2 +1,2 @@
 # ghost-web-site
-nuovo social 
+nuovo social link: https://ghost-web-site.netlify.app/ 
